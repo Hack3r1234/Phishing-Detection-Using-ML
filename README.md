@@ -1,9 +1,12 @@
-# Phishing-Detection-Using-ML
+## Phishing Detection Using ML 
 
-Title: Phishing Detection Solutions Using Artificial Intelligence: A Comprehensive Analysis of Feature-Based Algorithms
+## Title
+Phishing Detection Solutions Using Artificial Intelligence: A Comprehensive Analysis of Feature-Based Algorithms
 
+## Overview
 Detecting phishing attacks in real-time is a formidable challenge due to the ever-evolving tactics employed by cybercriminals to evade traditional security measures. To address this issue, Artificial Intelligence (AI) has emerged as a promising solution, harnessing its ability to analyze vast amounts of data, identify patterns, and make informed decisions without explicit programming. This project present a comprehensive analysis of various AI-driven feature-based algorithms for phishing detection.
 
+## Working
 Here are some points about how phishing detection using machine learning algorithms works based on the provided implementation:
 
 1. Website URL Input: Phishing detection begins with the user providing a website URL as input.
@@ -22,3 +25,24 @@ Here are some points about how phishing detection using machine learning algorit
 
 
 Overall, phishing detection using machine learning algorithms involves extracting relevant features from website URLs, training a model to classify websites as safe or malicious based on these features, and using the model to make predictions in real-time to protect users from potential phishing attacks.
+
+## Presentation
+Here is the pdf for you all to refer:
+
+[Phishing Detection using ML Algorithms.pdf](https://github.com/Hack3r1234/Phishing-Detection-Using-ML/blob/main/Phishing%20Detection.pdf)
+
+## Dataset Collection
+Dataset are collected from different sites such as PhishTank, OpenPhish, Kaggle and many more. So for reduction of overall time complexity of the model the urls are converted into binary.
+
+[Phishing.csv](https://github.com/Hack3r1234/Phishing-Detection-Using-ML/blob/main/phishing.csv), [Phishing Dataset](https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/n96ncsr5g4-1.zip), [Phish Tank](https://phishtank.org/), [OpenPhish](https://openphish.com/)
+
+## Future Work
+This project can be further be extended to make web browser plugin or extension or it can even launched as a product.
+
+## Conclusion
+This project contributes to the growing body of knowledge on AI-driven phishing detection and provides a foundation for future developments in the field of cybersecurity. Our work aims to empower individuals, organizations, and security professionals with advanced tools to safeguard against the ever-present threat of phishing attacks and protect the integrity and privacy of sensitive information.
+
+
+[![Twitter](https://img.shields.io/twitter/follow/DhruvPatel?style=social)](https://x.com/Dhruv0x01/)
+[![Linkedin](https://img.shields.io/badge/-dhruvpatel-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/dhruv-patel07b163214)](https://linkedin.com/in/dhruv-patel07b163214/)
+[![Blogspot](https://img.shields.io/badge/-Dhruv%20Patel-red?style=flat-square&logo=blogger&logoColor=black)](https://spywar364.blogspot.com/)
