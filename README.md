@@ -44,5 +44,5 @@ This project contributes to the growing body of knowledge on AI-driven phishing 
 
 
 [![Twitter](https://img.shields.io/twitter/follow/DhruvPatel?style=social)](https://x.com/Dhruv0x01/)
-[![Linkedin](https://img.shields.io/badge/-dhruvpatel-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/dhruv-patel07b163214)](https://linkedin.com/in/dhruv-patel07b163214/)
+[![Linkedin](https://img.shields.io/badge/-dhruvpatel-blue?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/dhruv-patel-07b163214)](https://www.linkedin.com/in/dhruv-patel-07b163214)
 [![Blogspot](https://img.shields.io/badge/-Dhruv%20Patel-red?style=flat-square&logo=blogger&logoColor=black)](https://spywar364.blogspot.com/)
